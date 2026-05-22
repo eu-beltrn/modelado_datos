@@ -1,9 +1,3 @@
-# ==============================================================================
-# MÓDULO INTEGRADO: ANÁLISIS DIMENSIONAL DE RECURSOS HUMANOS (EJERCICIO 2)
-# Alumna: Nicole
-# Arquitectura: Script Autónomo (.py) de Ejecución Continua
-# ==============================================================================
-
 import pandas as pd
 from sqlalchemy import create_engine
 import matplotlib.pyplot as plt
